@@ -1,5 +1,5 @@
 <br clear="both">
-<h1 align="center">👋 Olá, eu sou a Aline!</h1>
+<h1 align="left">👋 Olá, eu sou a Aline!</h1>
 
 ###
 
