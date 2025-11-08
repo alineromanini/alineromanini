@@ -1,5 +1,5 @@
 <br clear="both">
-<h1 align="left">👋 Olá, eu sou a Aline!</h1>
+<h1 align="center">👋 Olá, eu sou a Aline!</h1>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">💁 Redes Sociais</h3>
+<h3 align="left">👩‍💻 Redes Sociais</h3>
 
 ###
 
