@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">🎓 Engenheira de telecomunicações em transição de carreira para a área da tecnologia <br>📚 Aluna do bootcamp Generation Brasil - Java Full Stack <br>👩🏽‍💻 Atualmente estou desenvolvendo projetos em Java, Javascript, CSS, HTML utilizando Spring Boot e React <br>💞️ Curiosa, apaixonada por tecnologia, gatos, música e por desafios</p>
+<p align="left">🎓 Engenheira de telecomunicações em transição de carreira para a área da tecnologia <br>📚 Aluna do bootcamp Generation Brasil - Java Full Stack <br>👩🏽‍💻 Atualmente estou desenvolvendo projetos em Java, Javascript, CSS, HTML utilizando Spring Boot e React <br>💞️ Curiosa, apaixonada por tecnologia, gatos, música, café e por desafios</p>
 
 ###
 
